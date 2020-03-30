@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MessageShare</string>
+    <string name="btn_show_toast">Show toast</string>
+</resources>
