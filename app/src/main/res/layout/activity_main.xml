@@ -10,12 +10,12 @@
 
     <Button
         android:id="@+id/btnShowToast"
-        android:layout_width="137dp"
-        android:layout_height="wrap_content"
+        android:layout_width="171dp"
+        android:layout_height="84dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="137dp"
-        android:layout_marginBottom="510dp"
+        android:layout_marginEnd="116dp"
+        android:layout_marginBottom="511dp"
         android:text="@string/btn_show_toast" />
 
     <EditText
