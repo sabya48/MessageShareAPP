@@ -16,7 +16,9 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="116dp"
         android:layout_marginBottom="511dp"
-        android:text="@string/btn_show_toast" />
+        android:text="@string/btn_show_toast"
+        android:textColor="#ffffff"
+        android:background="#ff8a80"/>
 
     <EditText
         android:id="@+id/etUsermessage"
@@ -38,7 +40,9 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="72dp"
         android:layout_marginBottom="317dp"
-        android:text="send message to next Activity" />
+        android:text="send message to next Activity"
+        android:textColor="#ffffff"
+        android:background="#90caf9"/>
 
     <Button
         android:id="@+id/btnShareToOtherApps"
@@ -48,7 +52,9 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="48dp"
         android:layout_marginBottom="184dp"
-        android:text="Share to other Apps" />
+        android:text="Share to other Apps"
+        android:textColor="#ffffff"
+        android:background="#03a9f4"/>
 
     <Button
         android:id="@+id/btnRecycleViewDemo"
@@ -58,6 +64,8 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="130dp"
         android:layout_marginBottom="95dp"
-        android:text="My Hobbies̥" />
+        android:text="My Hobbies̥"
+        android:textColor="#ffffff"
+        android:background="#ff8f00"/>
 
 </RelativeLayout>
