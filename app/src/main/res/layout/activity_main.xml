@@ -10,18 +10,18 @@
 
     <Button
         android:id="@+id/btnShowToast"
-        android:layout_width="137dp"
-        android:layout_height="wrap_content"
+        android:layout_width="171dp"
+        android:layout_height="84dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="137dp"
-        android:layout_marginBottom="510dp"
+        android:layout_marginEnd="116dp"
+        android:layout_marginBottom="511dp"
         android:text="@string/btn_show_toast" />
 
     <EditText
         android:id="@+id/etUsermessage"
-        android:layout_width="364dp"
-        android:layout_height="64dp"
+        android:layout_width="327dp"
+        android:layout_height="55dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="32dp"
@@ -32,22 +32,22 @@
 
     <Button
         android:id="@+id/btnsendMsgtonextAvctivity"
-        android:layout_width="268dp"
-        android:layout_height="wrap_content"
+        android:layout_width="233dp"
+        android:layout_height="68dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="61dp"
-        android:layout_marginBottom="343dp"
+        android:layout_marginEnd="72dp"
+        android:layout_marginBottom="317dp"
         android:text="send message to next Activity" />
 
     <Button
         android:id="@+id/btnShareToOtherApps"
-        android:layout_width="327dp"
-        android:layout_height="92dp"
+        android:layout_width="288dp"
+        android:layout_height="97dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="33dp"
-        android:layout_marginBottom="216dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginBottom="184dp"
         android:text="Share to other Apps" />
 
     <Button
@@ -56,8 +56,8 @@
         android:layout_height="61dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="131dp"
-        android:layout_marginBottom="128dp"
+        android:layout_marginEnd="130dp"
+        android:layout_marginBottom="95dp"
         android:text="My Hobbies̥" />
 
 </RelativeLayout>
